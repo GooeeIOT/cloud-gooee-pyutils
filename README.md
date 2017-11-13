@@ -1,3 +1,5 @@
 # gooee-pyutils
 
-Generic python utilities.
+Generic python utilities that Gooee devs find useful.
+
+Enjoy!.
